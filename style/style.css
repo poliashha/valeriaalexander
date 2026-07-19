@@ -51,7 +51,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 60px;
+  gap: 80px;
 }
 
 .merrid{
@@ -102,6 +102,7 @@ body {
 
 .date-text {
   font-size: 48px;
+  margin-top: -25px;
 }
 
 .green {
