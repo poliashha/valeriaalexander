@@ -102,7 +102,8 @@ body {
 
 .date-text {
   font-size: 48px;
-  margin-top: -25px;
+  margin-top: -15px;
+  margin-bottom: 10px;
 }
 
 .green {
